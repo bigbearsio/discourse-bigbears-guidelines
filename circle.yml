@@ -8,4 +8,7 @@ jobs:
       - run:
           name: Update it!
           command: |
-            curl -X PUT https://forums.bigbears.io/posts/6 -d api_key="$FORUM_API_KEY" --data-urlencode "post[raw]@README.md"
+            if [ "$CIRCLE_BRANCH" = "master" ]
+            then
+              curl -X PUT https://forums.bigbears.io/posts/6 -d api_key="$FORUM_API_KEY" --data-urlencode "post[raw]@README.md"
+            fi
