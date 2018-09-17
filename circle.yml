@@ -1,0 +1,11 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.5-node-browsers
+    steps:
+      - checkout
+      - run:
+          name: Update it!
+          command: |
+            TODO
