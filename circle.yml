@@ -10,5 +10,7 @@ jobs:
           command: |
             if [ "$CIRCLE_BRANCH" = "master" ]
             then
-              curl -X PUT https://forums.bigbears.io/posts/6 -d api_key="$FORUM_API_KEY" --data-urlencode "post[raw]@README.md"
+              curl -X PUT https://forums.bigbears.io/posts/6 -d api_key="$FORUM_API_KEY" --data-urlencode "post[raw]@GUIDELINES.md"
+              curl -X PUT https://forums.bigbears.io/admin/customize/site_texts/education.new-reply -d api_key="$FORUM_API_KEY" --data-urlencode "site_text[value]@education/new-reply.md"
+              curl -X PUT https://forums.bigbears.io/admin/customize/site_texts/education.new-topic -d api_key="$FORUM_API_KEY" --data-urlencode "site_text[value]@education/new-topic.md"
             fi
