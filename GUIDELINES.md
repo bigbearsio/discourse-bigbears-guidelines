@@ -1,4 +1,4 @@
-แนวทางปฏิบัติของเว็บไซต์นี้ ดัดแปลงและแปลจาก [The Universal Rules of Civilized Discourse](https://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/) คุณสามารถช่วยเราพัฒนาปรับปรุงแนวทางปฏิบัตินี้ให้ดีขึ้นได้ โดยคุณสามารถ[แก้ไขหน้านี้บน GitHub](https://github.com/bigbearsio/discourse-bigbears-guidelines/blob/master/README.md)
+แนวทางปฏิบัติของเว็บไซต์นี้ ดัดแปลงและแปลจาก [The Universal Rules of Civilized Discourse](https://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/) คุณสามารถช่วยเราพัฒนาปรับปรุงแนวทางปฏิบัตินี้ให้ดีขึ้นได้ โดยคุณสามารถ[แก้ไขหน้านี้บน GitHub](https://github.com/bigbearsio/discourse-bigbears-guidelines/blob/master/GUIDELINES.md)
 
 <a name="civilized"></a>
 
