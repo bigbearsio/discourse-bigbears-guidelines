@@ -1,10 +1,6 @@
+แนวทางปฏิบัติของเว็บไซต์นี้ ดัดแปลงและแปลจาก [The Universal Rules of Civilized Discourse](https://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/) คุณสามารถช่วยเราพัฒนาปรับปรุงแนวทางปฏิบัตินี้ให้ดีขึ้นได้ โดยคุณสามารถ[แก้ไขหน้านี้บน GitHub](https://github.com/bigbearsio/discourse-bigbears-guidelines/blob/master/README.md)
+
 <a name="civilized"></a>
-
-## [This is a Civilized Place for Public Discussion](#civilized)
-
-Please treat this discussion forum with the same respect you would a public park.  We, too, are a shared community resource &mdash; a place to share skills, knowledge and interests through ongoing conversation.
-
-These are not hard and fast rules, merely guidelines to aid the human judgment of our community and keep this a clean and well-lighted place for civilized public discourse.
 
 ## ['ที่สาธารณะ' ในการแลกเปลี่ยนข้อคิดเห็น](#civilized)
 
@@ -14,14 +10,6 @@ These are not hard and fast rules, merely guidelines to aid the human judgment o
 
 <a name="improve"></a>
 
-## [Improve the Discussion](#improve)
-
-Help us make this a great place for discussion by always working to improve the discussion in some way, however small. If you are not sure your post adds to the conversation, think over what you want to say and try again later.
-
-The topics discussed here matter to us, and we want you to act as if they matter to you, too. Be respectful of the topics and the people discussing them, even if you disagree with some of what is being said.
-
-One way to improve the discussion is by discovering ones that are already happening. Spend time browsing the topics here before replying or starting your own, and you’ll have a better chance of meeting others who share your interests.
-
 ## [เพิ่มคุณค่าในการแสดงข้อคิดเห็น](#improve)
 
 ช่วยกันรักษา 'ที่สาธารณะ' แห่งนี้ ให้เป็นที่ส่งผ่านข้อคิดเห็น ด้วยการเพิ่มคุณภาพในการสื่อสารข้อคิดเห็นอยู่เสมอ หากคุณลังเลสงสัย ในข้อคิดเห็นที่จะสื่อสาร ให้คิดให้รอบและคิดถึงผู้รับสารอย่างละเอียดถี่ถ้วนก่อน แล้วจึงค่อยเรียบเรียงข้อความเพื่อลองสื่อสารข้อคิดเห็นนั้นๆ
@@ -29,19 +17,6 @@ One way to improve the discussion is by discovering ones that are already happen
 หัวข้อสนทนาและข้อคิดเห็นบน 'ที่สาธารณะ' แห่งนี้นั้นมีคุณค่ากับทุกคนที่ใช้ที่นี่ร่วมกัน ซึ่งนั่นก็แปลว่ามีคุณค่ากับคุณเช่นกัน ดังนั้นให้รักษาคุณค่าของหัวข้อสนทนาและข้อคิดเห็น แม้นว่าคุณจะไม่เห็นด้วยกับหัวข้อสนทนาหรือข้อคิดเห็นเหล่านั้นก็ตาม
 
 ทางหนึ่งที่จะเพิ่มคุณค่าในการแสดงข้อคิดเห็นนั้น คือการสละเวลาค้นหาหัวข้อสนทนาหรือข้อคิดเห็น ที่มีลักษณะใกล้เคียงกับข้อสนทนาที่คุณกำลังจะสื่อสาร คุณอาจจะพบคู่สนทนาที่มีความสนใจในข้อสนทนาเรื่องเดียวกันกับคุณ
-
-<a name="agreeable"></a>
-
-## [Be Agreeable, Even When You Disagree](#agreeable)
-
-You may wish to respond to something by disagreeing with it. That’s fine. But remember to _criticize ideas, not people_. Please avoid:
-
-*   Name-calling
-*   Ad hominem attacks
-*   Responding to a post’s tone instead of its actual content
-*   Knee-jerk contradiction
-
-Instead, provide reasoned counter-arguments that improve the conversation.
 
 <a name="agreeable"></a>
 
@@ -55,6 +30,39 @@ Instead, provide reasoned counter-arguments that improve the conversation.
 *   ยกตัวอย่างแย้ง โดยไม่มีหลักฐานสนับสนุน (Knee-jerk contradiction)
 
 แต่ขอให้[ใช้เหตุผลในการโต้แย้ง](https://board.postjung.com/754080.html)
+
+---
+
+<a name="civilized-en"></a>
+
+## [This is a Civilized Place for Public Discussion](#civilized-en)
+
+Please treat this discussion forum with the same respect you would a public park.  We, too, are a shared community resource &mdash; a place to share skills, knowledge and interests through ongoing conversation.
+
+These are not hard and fast rules, merely guidelines to aid the human judgment of our community and keep this a clean and well-lighted place for civilized public discourse.
+
+<a name="improve-en"></a>
+
+## [Improve the Discussion](#improve-en)
+
+Help us make this a great place for discussion by always working to improve the discussion in some way, however small. If you are not sure your post adds to the conversation, think over what you want to say and try again later.
+
+The topics discussed here matter to us, and we want you to act as if they matter to you, too. Be respectful of the topics and the people discussing them, even if you disagree with some of what is being said.
+
+One way to improve the discussion is by discovering ones that are already happening. Spend time browsing the topics here before replying or starting your own, and you’ll have a better chance of meeting others who share your interests.
+
+<a name="agreeable-en"></a>
+
+## [Be Agreeable, Even When You Disagree](#agreeable-en)
+
+You may wish to respond to something by disagreeing with it. That’s fine. But remember to _criticize ideas, not people_. Please avoid:
+
+*   Name-calling
+*   Ad hominem attacks
+*   Responding to a post’s tone instead of its actual content
+*   Knee-jerk contradiction
+
+Instead, provide reasoned counter-arguments that improve the conversation.
 
 <a name="participate"></a>
 
